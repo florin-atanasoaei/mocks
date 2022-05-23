@@ -1,0 +1,413 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "propertyId": "1",
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "test@test.com",
+      "labelColor": "#dde216",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
+    },
+    {
+      "id": "2",
+      "propertyId": "1",
+      "firstName": "Michael",
+      "lastName": "Jordan",
+      "email": "michaeljordan@gmail.com",
+      "labelColor": "#392abf",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
+    },
+    {
+      "id": "3",
+      "propertyId": "1",
+      "firstName": "Emmanuel",
+      "lastName": "Kant",
+      "email": "emmanuelkant@gmail.com",
+      "labelColor": "#eda201",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg",
+      "schedules": [
+        {
+          "id": "employee-schedule-2",
+          "start": 1645423215560,
+          "end": 1650034815000,
+          "weekDays": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false
+          },
+          "yearMonths": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "60ec1577455a06082dee0112",
+      "propertyId": "1",
+      "email": "info@mariana-ferreira.com",
+      "firstName": "Mariana",
+      "lastName": "Ferreira",
+      "labelColor": "#308446",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
+    }
+  ],
+  "properties": [
+    {
+      "name": "Salon Massage",
+      "email": "test1@gmail.com",
+      "phone_number": "1234567891",
+      "address": {
+        "streetAndNumber": "strada Grivita",
+        "city": "Botosani",
+        "country": "Germany",
+        "zipCode": "32321"
+      },
+      "links": {
+        "website": "Website link",
+        "facebook": "Facebook link",
+        "instagram": "Instagram link"
+      },
+      "localizedDescription": {
+        "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "es": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "id": "1",
+      "salonizedIframeUrl": "http://www.google.com",
+      "hasSalonized": false,
+      "tags": [
+        "1",
+        "2",
+        "10",
+        "11",
+        "25",
+        "26"
+      ],
+      "categories": [
+        {
+          "id": "1",
+          "tags": []
+        },
+        {
+          "id": "2",
+          "tags": [
+            "24",
+            "25",
+            "26"
+          ]
+        },
+        {
+          "id": "3",
+          "tags": [
+            "46",
+            "47"
+          ]
+        },
+        {
+          "id": "4",
+          "tags": []
+        },
+        {
+          "id": "5",
+          "tags": []
+        },
+        {
+          "id": "6",
+          "tags": []
+        },
+        {
+          "id": "7",
+          "tags": []
+        },
+        {
+          "id": "8",
+          "tags": []
+        },
+        {
+          "id": "9",
+          "tags": []
+        },
+        {
+          "id": "10",
+          "tags": []
+        },
+        {
+          "id": "11",
+          "tags": []
+        }
+      ],
+      "employees": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "name": "Hair Salon",
+      "email": "hair_salon@example.com",
+      "phone_number": "0123456789",
+      "address": {
+        "streetAndNumber": "Buridava",
+        "city": "Iasi",
+        "country": "Romania",
+        "zipCode": "123456"
+      },
+      "links": {
+        "website": "Website link",
+        "facebook": "Facebook link",
+        "instagram": "Instagram link"
+      },
+      "localizedDescription": {
+        "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "es": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "id": "2",
+      "tags": [
+        "47",
+        "46",
+        "25",
+        "24",
+        "38",
+        "60",
+        "15"
+      ],
+      "salonizedIframeUrl": "http://www.google.com",
+      "hasSalonized": true,
+      "employees": [
+        "1",
+        "2",
+        "3",
+        "60ec1577455a06082dee0112"
+      ]
+    },
+    {
+      "name": "Barber salon",
+      "email": "barber_salon@example.com",
+      "phone_number": "123456789",
+      "address": {
+        "streetAndNumber": "Tudor Vladimirescu",
+        "city": "Iasi",
+        "country": "Romania",
+        "zipCode": "12345"
+      },
+      "links": {
+        "website": "Website link",
+        "instagram": "Instagram link",
+        "facebook": "Facebook link"
+      },
+      "localizedDescription": {
+        "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "es": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "id": "8T24fVj",
+      "salonizedIframeUrl": "http://www.google.com",
+      "hasSalonized": true,
+      "tags": [
+        "24",
+        "25"
+      ]
+    },
+    {
+      "name": "Venus Salon",
+      "email": "venussalon@gmail.com",
+      "phone_number": "112",
+      "address": {
+        "streetAndNumber": "Alexandru Cel Bun, 50",
+        "city": "Iasi",
+        "country": "",
+        "zipCode": ""
+      },
+      "links": {
+        "website": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "localizedDescription": {
+        "en": "scsxzccz",
+        "de": "",
+        "es": ""
+      },
+      "id": "cT2XPp6"
+    }
+  ],
+  "offers": [
+    {
+      "name": "Massagefdsfs",
+      "description": "dfasfsa",
+      "reactionTime": "1",
+      "timeInHours": "1",
+      "timeInMinutes": "1",
+      "timeStartAfterXMin": "1",
+      "numberOfVisitors": "1",
+      "activityCategories": [
+        "1",
+        "2",
+        "3"
+      ],
+      "priceCategories": [
+        {
+          "category": "Full",
+          "price": "20"
+        },
+        {
+          "category": "Partial",
+          "price": "10"
+        },
+        {
+          "category": "dsfsf",
+          "price": "2"
+        }
+      ],
+      "vatNumber": "77%",
+      "closingBookingTime": "fdsf",
+      "minNumberOfTicketsToBook": "sdfsfs",
+      "preparationTime": "",
+      "cleanUpTime": "",
+      "address": "fdsfdsf",
+      "assignedEmployees": [
+        "3",
+        "2"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Haircut",
+      "description": "With chainsaw",
+      "reactionTime": "-1",
+      "timeInHours": "2",
+      "timeInMinutes": "30",
+      "timeStartAfterXMin": "2",
+      "numberOfVisitors": "20000",
+      "activityCategories": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "priceCategories": [
+        {
+          "category": "Full service",
+          "price": "1000"
+        },
+        {
+          "category": "Half service",
+          "price": "500"
+        },
+        {
+          "category": "All inclusive",
+          "price": "3"
+        }
+      ],
+      "vatNumber": "77%",
+      "closingBookingTime": "",
+      "minNumberOfTicketsToBook": "",
+      "preparationTime": "",
+      "cleanUpTime": "",
+      "address": "dsfas",
+      "assignedEmployees": [
+        "2",
+        "3"
+      ],
+      "id": 2
+    }
+  ],
+  "bookings": [
+    {
+      "offerName": "Massagefdsfs",
+      "propertyId": "1",
+      "duration": 61,
+      "price": 20,
+      "startTime": "2022-05-23T08:15:49+03:00",
+      "visitors": [
+        {
+          "id": 0,
+          "categoryName": "Full",
+          "count": 1
+        }
+      ],
+      "employeeId": "1",
+      "employeeName": "John Smith",
+      "customer": {
+        "firstName": "fdsdfdssdffs",
+        "lastName": "sfdsf",
+        "country": "germany",
+        "phone": "sffds",
+        "email": "venussalon@gmail.com",
+        "address": "",
+        "street": "",
+        "zipcode": "",
+        "comments": ""
+      },
+      "id": 1
+    }
+  ],
+  "schedules": [
+    {
+      "start": 1652677224284,
+      "end": 1668700824000,
+      "weekDays": {
+        "1": true,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "yearMonths": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true
+      },
+      "propertyName": "Salon Massage",
+      "employee": {
+        "id": "1",
+        "labelColor": "#dde216",
+        "name": "John Smith"
+      },
+      "id": 1
+    }
+  ]
+}
