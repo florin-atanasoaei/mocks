@@ -25,62 +25,6 @@
       "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
       "avatar": "uploaded",
       "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
-    },
-    {
-      "id": "3",
-      "propertyId": "1",
-      "firstName": "Emmanuel",
-      "lastName": "Kant",
-      "email": "emmanuelkant@gmail.com",
-      "labelColor": "#eda201",
-      "phoneNumber": "015167164305",
-      "userAvatarId": "60ec18a4e36e4854f6dedf96",
-      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
-      "avatar": "uploaded",
-      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg",
-      "schedules": [
-        {
-          "id": "employee-schedule-2",
-          "start": 1645423215560,
-          "end": 1650034815000,
-          "weekDays": {
-            "0": true,
-            "1": true,
-            "2": true,
-            "3": true,
-            "4": true,
-            "5": true,
-            "6": false
-          },
-          "yearMonths": {
-            "0": true,
-            "1": true,
-            "2": true,
-            "3": true,
-            "4": true,
-            "5": true,
-            "6": true,
-            "7": true,
-            "8": true,
-            "9": true,
-            "10": true,
-            "11": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "60ec1577455a06082dee0112",
-      "propertyId": "1",
-      "email": "info@mariana-ferreira.com",
-      "firstName": "Mariana",
-      "lastName": "Ferreira",
-      "labelColor": "#308446",
-      "phoneNumber": "015167164305",
-      "userAvatarId": "60ec18a4e36e4854f6dedf96",
-      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
-      "avatar": "uploaded",
-      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
     }
   ],
   "properties": [
@@ -211,61 +155,11 @@
         "3",
         "60ec1577455a06082dee0112"
       ]
-    },
-    {
-      "name": "Barber salon",
-      "email": "barber_salon@example.com",
-      "phone_number": "123456789",
-      "address": {
-        "streetAndNumber": "Tudor Vladimirescu",
-        "city": "Iasi",
-        "country": "Romania",
-        "zipCode": "12345"
-      },
-      "links": {
-        "website": "Website link",
-        "instagram": "Instagram link",
-        "facebook": "Facebook link"
-      },
-      "localizedDescription": {
-        "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "de": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "es": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-      },
-      "id": "8T24fVj",
-      "salonizedIframeUrl": "http://www.google.com",
-      "hasSalonized": true,
-      "tags": [
-        "24",
-        "25"
-      ]
-    },
-    {
-      "name": "Venus Salon",
-      "email": "venussalon@gmail.com",
-      "phone_number": "112",
-      "address": {
-        "streetAndNumber": "Alexandru Cel Bun, 50",
-        "city": "Iasi",
-        "country": "",
-        "zipCode": ""
-      },
-      "links": {
-        "website": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "localizedDescription": {
-        "en": "scsxzccz",
-        "de": "",
-        "es": ""
-      },
-      "id": "cT2XPp6"
     }
   ],
   "offers": [
     {
-      "name": "Massagefdsfs",
+      "name": "Massage",
       "description": "dfasfsa",
       "reactionTime": "1",
       "timeInHours": "1",
